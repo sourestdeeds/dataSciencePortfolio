@@ -4,7 +4,7 @@ A collection of projects and notebooks as examples of my work, adopting commonly
 - Minimax Algorithm \- Noughts and Crosses
 - Ray Tracing \- Linear Interpolation in 3D using numpy broadcasting instead of for loops.
 - Gaussian Noise Galaxy Simulation \- A galaxy simulator created using gaussian noise.
-- 
+
 ***
 # **firefly - MScR Astrophysics**
 ### A target selector for use with TransitFit to fit TESS lightcurves.
