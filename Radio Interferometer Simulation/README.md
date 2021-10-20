@@ -10,3 +10,9 @@
 <p align="center">
   <img src="https://github.com/sourestdeeds/dataSciencePortfolio/blob/main/Radio%20Interferometer%20Simulation/output1.png">
 </p>
+<p align="center">
+  <img src="https://github.com/sourestdeeds/dataSciencePortfolio/blob/main/Radio%20Interferometer%20Simulation/output2.png">
+</p>
+<p align="center">
+  <img src="https://github.com/sourestdeeds/dataSciencePortfolio/blob/main/Radio%20Interferometer%20Simulation/output.png">
+</p>
