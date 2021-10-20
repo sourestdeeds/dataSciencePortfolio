@@ -1,6 +1,8 @@
 ***
 # dataSciencePortfolio
 A collection of projects and notebooks as examples of my work, adopting commonly used machine learning algorithms.
+- Minimax Algorithm \- Noughts and Crosses
+- Ray Tracing \- Linear Interpolation in 3D using numpy broadcasting instead of for loops.
 
 ***
 # **firefly - MScR Astrophysics**
