@@ -8,5 +8,5 @@
   
   
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sourestdeeds/firefly/main/firefly/data/filter_0.png?token=ACSJ3D7C7KDFPAFUZD7RNULAK7E6A">
+  <img src="https://github.com/sourestdeeds/dataSciencePortfolio/blob/main/Radio%20Interferometer%20Simulation/output1.png">
 </p>
