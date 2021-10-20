@@ -1,3 +1,4 @@
+***
 # dataSciencePortfolio
 A collection of projects and notebooks as examples of my work, adopting commonly used machine learning algorithms.
 
