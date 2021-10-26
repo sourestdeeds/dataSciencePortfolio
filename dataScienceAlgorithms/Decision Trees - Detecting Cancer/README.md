@@ -1,37 +1,38 @@
 
-# **Minimax - Noughts and Crosses**
-### An AI vs AI simulator using the minimax algorithm.
+# **Decision Trees - Detecting Cancer**
+### Detecting Brest Cancer using Machine Learning.
 
-## Breast Cancer Wisconsin (Diagnostic) Database
-A description of the dataset used is provided here.
+#### Breast Cancer Wisconsin (Diagnostic) Database
 
 Data Set Characteristics:
-    :Number of Instances: 569
 
-    :Number of Attributes: 30 numeric, predictive attributes and the class
+```
+Number of Instances: 569
+Number of Attributes: 30 numeric, predictive attributes and the class
+```
 
-    :Attribute Information:
-        - radius (mean of distances from center to points on the perimeter)
-        - texture (standard deviation of gray-scale values)
-        - perimeter
-        - area
-        - smoothness (local variation in radius lengths)
-        - compactness (perimeter^2 / area - 1.0)
-        - concavity (severity of concave portions of the contour)
-        - concave points (number of concave portions of the contour)
-        - symmetry 
-        - fractal dimension ("coastline approximation" - 1)
+Attribute Information:
+- radius (mean of distances from center to points on the perimeter)
+- texture (standard deviation of gray-scale values)
+- perimeter
+- area
+- smoothness (local variation in radius lengths)
+- compactness (perimeter^2 / area - 1.0)
+- concavity (severity of concave portions of the contour)
+- concave points (number of concave portions of the contour)
+- symmetry 
+- fractal dimension ("coastline approximation" - 1)
 
-        The mean, standard error, and "worst" or largest (mean of the three
-        largest values) of these features were computed for each image,
-        resulting in 30 features.  For instance, field 3 is Mean Radius, field
-        13 is Radius SE, field 23 is Worst Radius.
+The mean, standard error, and "worst" or largest (mean of the three
+largest values) of these features were computed for each image,
+resulting in 30 features.  For instance, field 3 is Mean Radius, field
+13 is Radius SE, field 23 is Worst Radius.
 
-        - target class:
-                - WDBC-Malignant
-                - WDBC-Benign
+Target class:
+- WDBC-Malignant
+- WDBC-Benign
 
-    :Summary Statistics:
+Summary Statistics:
 
     ===================================== ====== ======
                                            Min    Max
@@ -67,16 +68,13 @@ Data Set Characteristics:
     symmetry (worst):                     0.156  0.664
     fractal dimension (worst):            0.055  0.208
     ===================================== ====== ======
-
-    :Missing Attribute Values: None
-
-    :Class Distribution: 212 - Malignant, 357 - Benign
-
-    :Creator:  Dr. William H. Wolberg, W. Nick Street, Olvi L. Mangasarian
-
-    :Donor: Nick Street
-
-    :Date: November, 1995
+```
+Missing Attribute Values: None
+Class Distribution: 212 - Malignant, 357 - Benign
+Creator:  Dr. William H. Wolberg, W. Nick Street, Olvi L. Mangasarian
+Donor: Nick Street
+Date: November, 1995
+```
 
 This is a copy of the UCI ML Breast Cancer Wisconsin (Diagnostic) dataset from https://goo.gl/U2Uwz2
 
