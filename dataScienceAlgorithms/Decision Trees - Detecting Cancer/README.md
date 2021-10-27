@@ -3,7 +3,7 @@
 ### Detecting Brest Cancer using Machine Learning.
 
 <p align="center">
-  <img src="https://github.com/sourestdeeds/dataSciencePortfolio/blob/main/dataScienceAlgorithms/Linear%20Interpolation%20-%20Raytracing/ray.png">
+  <img src="https://github.com/sourestdeeds/dataSciencePortfolio/blob/main/dataScienceAlgorithms/Decision%20Trees%20-%20Detecting%20Cancer/output.png">
 </p>
 
 #### Breast Cancer Wisconsin (Diagnostic) Database
