@@ -13,7 +13,7 @@ A collection of projects and notebooks as examples of my work, adopting commonly
 </p>
 
 ***
-# Radio Interferometer Simulation
+# Radio Interferometer Simulation - MScR Astrophysics
 ### A simulation of the VLA Radio Interferometer.
    
 <p align="center">
