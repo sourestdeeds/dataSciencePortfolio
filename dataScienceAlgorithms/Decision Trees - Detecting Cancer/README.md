@@ -2,6 +2,10 @@
 # **Decision Trees - Detecting Cancer**
 ### Detecting Brest Cancer using Machine Learning.
 
+<p align="center">
+  <img src="https://github.com/sourestdeeds/dataSciencePortfolio/blob/main/dataScienceAlgorithms/Linear%20Interpolation%20-%20Raytracing/ray.png">
+</p>
+
 #### Breast Cancer Wisconsin (Diagnostic) Database
 
 Data Set Characteristics:
