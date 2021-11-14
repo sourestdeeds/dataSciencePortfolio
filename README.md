@@ -26,11 +26,28 @@ A collection of projects and notebooks as examples of my work, adopting commonly
 ***
 # Certificates
 
+### Intro to Machine Learning
+
+- Data Exploration
+- Model validation
+- Underfitting and Overfitting
+- Random Forests
+
 <p align="center">
   <img src="https://github.com/sourestdeeds/dataSciencePortfolio/blob/main/Certificates/Stephen%20Charles%20-%20Intro%20to%20Machine%20Learning.png">
 </p>
 
 ***
+
+### Intermediate Machine Learning
+
+- Handle Missing Values
+- Categorical Variables
+- Pipelines
+- Cross-Validation
+- XGBoost
+- Data Leakage
+
 <p align="center">
   <img src="https://github.com/sourestdeeds/dataSciencePortfolio/blob/main/Certificates/Stephen%20Charles%20-%20Intermediate%20Machine%20Learning.png">
 </p>
