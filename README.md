@@ -31,4 +31,9 @@ A collection of projects and notebooks as examples of my work, adopting commonly
 </p>
 
 ***
+<p align="center">
+  <img src="https://github.com/sourestdeeds/dataSciencePortfolio/blob/main/Radio%20Interferometer%20Simulation/output1.png">
+</p>
+
+***
 
