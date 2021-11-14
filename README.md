@@ -32,7 +32,7 @@ A collection of projects and notebooks as examples of my work, adopting commonly
 
 ***
 <p align="center">
-  <img src="https://github.com/sourestdeeds/dataSciencePortfolio/blob/main/Radio%20Interferometer%20Simulation/output1.png">
+  <img src="https://github.com/sourestdeeds/dataSciencePortfolio/blob/main/Certificates/Stephen%20Charles%20-%20Intermediate%20Machine%20Learning.png">
 </p>
 
 ***
