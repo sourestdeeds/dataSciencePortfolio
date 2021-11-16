@@ -390,16 +390,10 @@ To deploy we want to train our model and save the outputs in a pickle file and t
 
 ![Untitled](https://user-images.githubusercontent.com/67965686/101117332-c5bdf480-360c-11eb-8b9b-7f6090eb324d.png)
 
-I am deployed app in Heroku Platform to see visit [here](https://amazon-food-review-analyzer.herokuapp.com/)
 
 ###### Thanks for reading and your patience. I hope you liked the post, let me know if there are any errors in my post.
 
 ### Contact
 
-[Email](sachin.s1dn@gmail.com)
-[Linkedln](https://www.linkedin.com/in/sachin-d-n-1st-8150351b2/)
-[Github](https://github.com/Sachin-D-N/Amazon_Food_Reviews)
-[Medium](https://sachin-s1dn.medium.com/)
-[Twitter](https://twitter.com/home)
 
 
