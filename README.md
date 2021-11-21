@@ -9,7 +9,7 @@ A collection of projects and notebooks as examples of my work, adopting commonly
 - Neural Network - Prototyping
 - OOP Simulation - Coffee Shop
 ***
-# **`firefly` - MScR Astrophysics**
+# **[`firefly`](https://github.com/sourestdeeds/dataSciencePortfolio/tree/main/Project%20Firefly) - MScR Astrophysics**
 ### A target selector for use with [`TransitFit`](https://github.com/joshjchayes/TransitFit) to fit TESS lightcurves.
 <p align="center">
   <img src="https://raw.githubusercontent.com/sourestdeeds/firefly/main/firefly/data/filter_0.png?token=ACSJ3D7C7KDFPAFUZD7RNULAK7E6A">
@@ -17,7 +17,7 @@ A collection of projects and notebooks as examples of my work, adopting commonly
 
 ***
 
-# **`serenity`**
+# **[`serenity`](https://github.com/sourestdeeds/dataSciencePortfolio/tree/main/Project%20Serenity)**
 
 A gradient descent ensemble boosted tree (regressor!) to compare predictions versus [`Forecaster`](https://github.com/chenjj2/forecaster). 
 
