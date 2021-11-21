@@ -2,7 +2,7 @@
 
 # **`serenity`**
 
-A gradient descent ensemble boosted tree (regressor!) to compare predictions versus `Forecaster`. 
+A gradient descent ensemble boosted tree (regressor!) to compare predictions versus [`Forecaster`](https://github.com/chenjj2/forecaster). 
 
 <p align="center">
   <img src="https://github.com/sourestdeeds/dataSciencePortfolio/blob/main/Project%20Serenity/shap2.png">
