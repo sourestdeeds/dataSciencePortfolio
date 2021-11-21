@@ -37,8 +37,6 @@ A collection of projects and notebooks as examples of my work, adopting commonly
   <img src="https://github.com/sourestdeeds/dataSciencePortfolio/blob/main/Certificates/Stephen%20Charles%20-%20Intro%20to%20Machine%20Learning.png">
 </p>
 
-***
-
 ### Intermediate Machine Learning
 
 - Handle Missing Values
@@ -50,6 +48,18 @@ A collection of projects and notebooks as examples of my work, adopting commonly
 
 <p align="center">
   <img src="https://github.com/sourestdeeds/dataSciencePortfolio/blob/main/Certificates/Stephen%20Charles%20-%20Intermediate%20Machine%20Learning.png">
+</p>
+
+### Machine Learning Explainability
+
+- Use cases for model insights
+- Permutation Importance
+- Partial Plots
+- SHAP Values
+- Advanced Uses of SHAP Values
+
+<p align="center">
+  <img src="https://github.com/sourestdeeds/dataSciencePortfolio/blob/main/Certificates/Stephen%20Charles%20-%20Machine%20Learning%20Explainability.png">
 </p>
 
 ***
