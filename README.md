@@ -54,6 +54,7 @@ Prediction versus Forecaster Accuracy: 12/15
 ***
 # **`dataSciencePortfolio`**
 A collection of projects and notebooks as examples of my work, adopting commonly used machine learning algorithms.
+- [Amazon Food Reviews](https://github.com/sourestdeeds/dataSciencePortfolio/tree/main/Amazon%20Food%20Reviews) - A collection of Kaggle projects to self teach many various ML/AI algorithms.
 - [Minimax Algorithm](https://github.com/sourestdeeds/dataSciencePortfolio/blob/main/dataScienceAlgorithms/Misc/Minimax%20-%20Noughts%20and%20Crosses/Minimax%20-%20Naughts%20and%20crosses.ipynb) \- Noughts and Crosses
 - [Ray Tracing](https://github.com/sourestdeeds/dataSciencePortfolio/blob/main/dataScienceAlgorithms/Misc/Linear%20Interpolation%20-%20Raytracing/Linear%20Interpolation%20-%20Ray%20Tracing.ipynb) \- Linear Interpolation in 3D using numpy broadcasting instead of for loops.
 - Gaussian Noise Galaxy Simulation \- A galaxy simulator created using gaussian noise.
