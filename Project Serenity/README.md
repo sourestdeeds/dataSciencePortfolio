@@ -35,3 +35,27 @@ Residual sum for Prediction: 5.52
 Residual sum for Forecaster: 74.97
 Prediction versus Forecaster Accuracy: 12/15
 ```
+# Prediction vs. Forecaster
+- Display all the predicted values against the forecaster package, take the residuals of both and rank for `Prediction < Forecaster`.
+- Then see how many times it takes for Forecaster to have a better accuracy than our prediction.
+
+
+# Dataset
+- Dataset acquired from the [`NASA Exoplanet Archive`](https://exoplanetarchive.ipac.caltech.edu)
+- `ML_nasa_tess_viable` is a collection of all exoplanets with a TESS data product.
+
+# Model: `XGBRegressor()`
+- Test-Train splits have a test size of `0.2`.
+- Data leakage accounted for with piplines handling preprocessing before cross-validation.
+- Capable of handling categorical or numerical columns.
+- Categorical uses `OneHotEncoder()` and the most frequent string if there are missing values using `SimpleImputer()`.
+- Numerical preprocessing steps use the `RobustScalar()` method and a mean strategy using `SimpleImputer()`.
+- Need to investigate why `count:possion` gives the best accuracy.
+
+# Shap Values
+Shap values show how much a given feature changed our prediction (compared to if we made that prediction at some baseline value of that feature). Permutation importance is great because it created simple numeric measures to see which features mattered to a model. This helped us make comparisons between features easily, and you can present the resulting graphs to non-technical audiences.
+
+But it doesn't tell you how each features matter. If a feature has medium permutation importance, that could mean it has
+
+- A large effect for a few predictions, but no effect in general, or
+- A medium effect for all predictions.
