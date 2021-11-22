@@ -1,14 +1,3 @@
-***
-# **`dataSciencePortfolio`**
-A collection of projects and notebooks as examples of my work, adopting commonly used machine learning algorithms.
-- Minimax Algorithm \- Noughts and Crosses
-- Ray Tracing \- Linear Interpolation in 3D using numpy broadcasting instead of for loops.
-- Gaussian Noise Galaxy Simulation \- A galaxy simulator created using gaussian noise.
-- Decision Trees - Detecting Breast Cancer
-- Linear Regression - Boston House Prices
-- Neural Network - Prototyping
-- OOP Simulation - Coffee Shop
-***
 # **[`firefly`](https://github.com/sourestdeeds/dataSciencePortfolio/tree/main/Project%20Firefly) - MScR Astrophysics**
 ### A target selector for use with [`TransitFit`](https://github.com/joshjchayes/TransitFit) to fit TESS lightcurves.
 <p align="center">
@@ -55,7 +44,7 @@ Prediction versus Forecaster Accuracy: 12/15
 
 
 ***
-# Radio Interferometer Simulation - MScR Astrophysics
+# [`Radio Interferometer Simulation`](https://github.com/sourestdeeds/dataSciencePortfolio/tree/main/Radio%20Interferometer%20Simulation) - MScR Astrophysics
 ### A simulation of the VLA Radio Interferometer.
    
 <p align="center">
@@ -63,7 +52,17 @@ Prediction versus Forecaster Accuracy: 12/15
 </p>
 
 ***
-# Certificates
+# **`dataSciencePortfolio`**
+A collection of projects and notebooks as examples of my work, adopting commonly used machine learning algorithms.
+- [Minimax Algorithm](https://github.com/sourestdeeds/dataSciencePortfolio/blob/main/dataScienceAlgorithms/Misc/Minimax%20-%20Noughts%20and%20Crosses/Minimax%20-%20Naughts%20and%20crosses.ipynb) \- Noughts and Crosses
+- [Ray Tracing](https://github.com/sourestdeeds/dataSciencePortfolio/blob/main/dataScienceAlgorithms/Misc/Linear%20Interpolation%20-%20Raytracing/Linear%20Interpolation%20-%20Ray%20Tracing.ipynb) \- Linear Interpolation in 3D using numpy broadcasting instead of for loops.
+- Gaussian Noise Galaxy Simulation \- A galaxy simulator created using gaussian noise.
+- Decision Trees - Detecting Breast Cancer
+- Linear Regression - Boston House Prices
+- Neural Network - Prototyping
+- [OOP Simulation](https://github.com/sourestdeeds/dataSciencePortfolio/blob/main/dataScienceAlgorithms/Misc/OOP%20Simulation%20-%20Coffee%20Shop/OOP%20Simulation%20-%20Coffee%20Shop.ipynb) - Coffee Shop
+***
+# `Certificates`
 
 ### Intro to Machine Learning
 
