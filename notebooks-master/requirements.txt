@@ -1,0 +1,10 @@
+jupyter
+keras
+matplotlib
+numpy
+pillow
+pymc3
+requests
+scipy
+scikit-learn
+tensorflow
