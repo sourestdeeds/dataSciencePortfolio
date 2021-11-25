@@ -1,6 +1,0 @@
-.DS_Store
-migrated
-.ipynb_checkpoints
-__pycache__
-data/*
-nbconfig
